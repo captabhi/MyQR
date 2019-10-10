@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OwnQr</string>
+    <string name="custom_activity">Continuous Scan</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="todo">TODO</string>
+    <style name="sendprompt">Scan this QR in your app</style>
+</resources>
